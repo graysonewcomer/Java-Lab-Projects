@@ -1,2 +1,2 @@
-# JavaProjects
-Projects made for IT168 and IT179 classes and labs
+# IT168 Labs // Java
+Programs written in Java as exercises for the lab section of my IT168 class
